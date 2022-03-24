@@ -1,0 +1,32 @@
+item { 
+	name:'thumbsup'
+	id:1
+}
+item { 
+	name:'thumbsdown'
+	id:2
+}
+item { 
+	name:'hello'
+	id:3
+}
+item { 
+	name:'thankyou'
+	id:4
+}
+item { 
+	name:'peace'
+	id:5
+}
+item { 
+	name:'namaste'
+	id:6
+}
+item { 
+	name:'iloveyou'
+	id:7
+}
+item { 
+	name:'ok'
+	id:8
+}
