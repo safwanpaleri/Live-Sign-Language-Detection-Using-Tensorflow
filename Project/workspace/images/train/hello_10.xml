@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hello_10.jpg</filename>
+	<path>E:\MLP\TFODCourse\Project\workspace\images\train\hello_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>225</ymin>
+			<xmax>131</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>
